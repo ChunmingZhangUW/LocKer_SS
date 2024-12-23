@@ -1,4 +1,5 @@
 # Locally sparse estimator of the generalized varying coefficient model for asynchronous longitudinal data
+======= README: Description for R Code =======
 
 This README provides a description of the R code used to produce the numerical studies in the paper:
 
